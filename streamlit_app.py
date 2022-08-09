@@ -1,7 +1,5 @@
 import streamlit
 
-
-
 from urllib.error import URLError
 
 streamlit.title('My new diner test')
