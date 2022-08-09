@@ -64,7 +64,7 @@ if streamlit.button('Get Fruit Load List'):
    streamlit.dataframe(my_data_rows)  
    
 
-streamlit.write('Thanks for adding ', add_my_fruit)
+#streamlit.write('Thanks for adding ', add_my_fruit)
 
 # Allow the end user to add a fruit to the list
 
